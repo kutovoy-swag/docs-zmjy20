@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-jn4iik.altogel32wsd.site/sitemap.xml
